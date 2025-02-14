@@ -1,0 +1,584 @@
+{
+    "profile_data": {
+        "display_name": "Elon Musk",
+        "followers": 217653428,
+        "following": 1025,
+        "on_site_since": "Tue Jun 02 20:12:29 +0000 2009",
+        "pinned_tweet_ids": [
+            "1889896827513868734"
+        ],
+        "profile_description": "Volunteer Tech Support",
+        "profile_small_image_url": "https://pbs.twimg.com/profile_images/1874558173962481664/8HSTqIlD_normal.jpg",
+        "profile_url": "https://x.com/elonmusk",
+        "tweets_qty": 70477,
+        "username": "elonmusk"
+    },
+    "tweets": [
+        {
+            "media_urls": null,
+            "publication_date": "Thu Feb 13 04:38:10 +0000 2025",
+            "quote_count": 5115,
+            "replays": 24371,
+            "retweets_qty": 75365,
+            "tweet_content_text": "Reuters was paid millions of dollars by the US government for \u201clarge scale social deception\u201d. That is literally what it says on the purchase order! They\u2019re a total scam. Just wow.",
+            "tweet_id": "1889896827513868734",
+            "tweet_likes_qty": 222894
+        },
+        {
+            "media_urls": null,
+            "publication_date": "Thu Apr 28 00:56:58 +0000 2022",
+            "quote_count": 166888,
+            "replays": 173989,
+            "retweets_qty": 611082,
+            "tweet_content_text": "Next I\u2019m buying Coca-Cola to put the cocaine back in",
+            "tweet_id": "1519480761749016577",
+            "tweet_likes_qty": 4373846
+        },
+        {
+            "media_urls": [
+                "https://pbs.twimg.com/media/GSZvkScbIAAwHQi.jpg"
+            ],
+            "publication_date": "Sat Jul 13 22:51:28 +0000 2024",
+            "quote_count": 40400,
+            "replays": 72416,
+            "retweets_qty": 410298,
+            "tweet_content_text": "https://t.co/6eOgN9UdOy",
+            "tweet_id": "1812258574049157405",
+            "tweet_likes_qty": 3396994
+        },
+        {
+            "media_urls": null,
+            "publication_date": "Mon Apr 25 16:12:30 +0000 2022",
+            "quote_count": 68444,
+            "replays": 160669,
+            "retweets_qty": 332430,
+            "tweet_content_text": "I hope that even my worst critics remain on Twitter, because that is what free speech means",
+            "tweet_id": "1518623997054918657",
+            "tweet_likes_qty": 2969082
+        },
+        {
+            "media_urls": [
+                "https://pbs.twimg.com/media/GbrTB8GXEAYrk2N.jpg"
+            ],
+            "publication_date": "Wed Nov 06 05:01:15 +0000 2024",
+            "quote_count": 12126,
+            "replays": 59704,
+            "retweets_qty": 216638,
+            "tweet_content_text": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8The future is gonna be so \ud83d\udd25 \ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8 https://t.co/x56cqb6oT5",
+            "tweet_id": "1854026234339938528",
+            "tweet_likes_qty": 2665760
+        },
+        {
+            "media_urls": null,
+            "publication_date": "Thu Apr 28 01:53:50 +0000 2022",
+            "quote_count": 33686,
+            "replays": 104028,
+            "retweets_qty": 173715,
+            "tweet_content_text": "Let\u2019s make Twitter maximum fun!",
+            "tweet_id": "1519495072802390016",
+            "tweet_likes_qty": 2428180
+        },
+        {
+            "media_urls": [
+                "https://pbs.twimg.com/media/FRNsuSFWUAUW6aP.jpg"
+            ],
+            "publication_date": "Mon Apr 25 19:43:22 +0000 2022",
+            "quote_count": 59375,
+            "replays": 134811,
+            "retweets_qty": 312750,
+            "tweet_content_text": "\ud83d\ude80\ud83d\udcab\u2665\ufe0f Yesss!!! \u2665\ufe0f\ud83d\udcab\ud83d\ude80 https://t.co/0T9HzUHuh6",
+            "tweet_id": "1518677066325053441",
+            "tweet_likes_qty": 2396531
+        },
+        {
+            "media_urls": [
+                "https://pbs.twimg.com/media/FRZViwWX0AMsqQ1.jpg"
+            ],
+            "publication_date": "Thu Apr 28 01:57:27 +0000 2022",
+            "quote_count": 24675,
+            "replays": 71070,
+            "retweets_qty": 190610,
+            "tweet_content_text": "Listen, I can\u2019t do miracles ok https://t.co/z7dvLMUXy8",
+            "tweet_id": "1519495982723084290",
+            "tweet_likes_qty": 2352712
+        },
+        {
+            "media_urls": [
+                "https://pbs.twimg.com/media/Gbty0ylX0BIEPA4.jpg"
+            ],
+            "publication_date": "Wed Nov 06 16:39:24 +0000 2024",
+            "quote_count": 10748,
+            "replays": 69883,
+            "retweets_qty": 220317,
+            "tweet_content_text": "It is morning in America again https://t.co/GNTE0cUWoc",
+            "tweet_id": "1854201929519247803",
+            "tweet_likes_qty": 2402290
+        },
+        {
+            "media_urls": [
+                "https://pbs.twimg.com/amplify_video_thumb/1812256938383568896/img/_R5F6myzmRblxf_8.jpg"
+            ],
+            "publication_date": "Sat Jul 13 22:45:13 +0000 2024",
+            "quote_count": 36347,
+            "replays": 86677,
+            "retweets_qty": 361695,
+            "tweet_content_text": "I fully endorse President Trump and hope for his rapid recovery https://t.co/ZdxkF63EqF",
+            "tweet_id": "1812256998588662068",
+            "tweet_likes_qty": 2325856
+        },
+        {
+            "media_urls": null,
+            "publication_date": "Fri Oct 28 03:49:11 +0000 2022",
+            "quote_count": 51257,
+            "replays": 128166,
+            "retweets_qty": 311206,
+            "tweet_content_text": "the bird is freed",
+            "tweet_id": "1585841080431321088",
+            "tweet_likes_qty": 2263498
+        },
+        {
+            "media_urls": [
+                "https://pbs.twimg.com/media/GbrazRVW8AEmBOK.jpg"
+            ],
+            "publication_date": "Wed Nov 06 05:35:11 +0000 2024",
+            "quote_count": 16935,
+            "replays": 65796,
+            "retweets_qty": 234696,
+            "tweet_content_text": "Let that sink in https://t.co/XvYFtDrhRm",
+            "tweet_id": "1854034776815972649",
+            "tweet_likes_qty": 2257562
+        },
+        {
+            "media_urls": null,
+            "publication_date": "Fri Oct 28 21:16:42 +0000 2022",
+            "quote_count": 38041,
+            "replays": 80434,
+            "retweets_qty": 220914,
+            "tweet_content_text": "Comedy is now legal on Twitter",
+            "tweet_id": "1586104694421659648",
+            "tweet_likes_qty": 2158293
+        },
+        {
+            "media_urls": [
+                "https://pbs.twimg.com/amplify_video_thumb/1820602688117354497/img/YZTX78aqXVB2dkG3.jpg"
+            ],
+            "publication_date": "Tue Aug 06 04:57:46 +0000 2024",
+            "quote_count": 8982,
+            "replays": 25115,
+            "retweets_qty": 141342,
+            "tweet_content_text": "https://t.co/FMCQKSB2u6",
+            "tweet_id": "1820685675899072930",
+            "tweet_likes_qty": 2156649
+        },
+        {
+            "media_urls": [
+                "https://pbs.twimg.com/media/Fh0bPd7VQAAU31D.jpg"
+            ],
+            "publication_date": "Fri Nov 18 04:23:16 +0000 2022",
+            "quote_count": 156848,
+            "replays": 62132,
+            "retweets_qty": 203977,
+            "tweet_content_text": "https://t.co/rbwbsLA1ZG",
+            "tweet_id": "1593459801966538755",
+            "tweet_likes_qty": 1914562
+        },
+        {
+            "media_urls": [
+                "https://pbs.twimg.com/amplify_video_thumb/1823742429050417152/img/qnjBLFf3ESNkkXpJ.jpg"
+            ],
+            "publication_date": "Wed Aug 14 15:24:30 +0000 2024",
+            "quote_count": 25663,
+            "replays": 102530,
+            "retweets_qty": 222266,
+            "tweet_content_text": "Haters will say this is AI  \ud83d\udd7a\ud83d\udd7a https://t.co/vqWVxiYXeD",
+            "tweet_id": "1823742501884453312",
+            "tweet_likes_qty": 1835064
+        },
+        {
+            "media_urls": null,
+            "publication_date": "Thu Aug 01 17:48:24 +0000 2024",
+            "quote_count": 6278,
+            "replays": 30580,
+            "retweets_qty": 165426,
+            "tweet_content_text": "Good",
+            "tweet_id": "1819067673818681724",
+            "tweet_likes_qty": 1815954
+        },
+        {
+            "media_urls": null,
+            "publication_date": "Thu Aug 01 12:27:35 +0000 2024",
+            "quote_count": 12790,
+            "replays": 49396,
+            "retweets_qty": 292761,
+            "tweet_content_text": "Absolutely",
+            "tweet_id": "1818986936310075743",
+            "tweet_likes_qty": 1824280
+        },
+        {
+            "media_urls": null,
+            "publication_date": "Mon May 09 00:51:26 +0000 2022",
+            "quote_count": 38982,
+            "replays": 135018,
+            "retweets_qty": 156106,
+            "tweet_content_text": "If I die under mysterious circumstances, it\u2019s been nice knowin ya",
+            "tweet_id": "1523465632502906880",
+            "tweet_likes_qty": 1728725
+        },
+        {
+            "media_urls": [
+                "https://pbs.twimg.com/media/FglVYVmXkAIWB5w.jpg"
+            ],
+            "publication_date": "Wed Nov 02 19:47:39 +0000 2022",
+            "quote_count": 60664,
+            "replays": 65784,
+            "retweets_qty": 155760,
+            "tweet_content_text": "https://t.co/kGncG7Hs3M",
+            "tweet_id": "1587894226695884800",
+            "tweet_likes_qty": 1698427
+        },
+        {
+            "media_urls": [
+                "https://pbs.twimg.com/media/Gbyr5aUXYB4swH7.jpg"
+            ],
+            "publication_date": "Thu Nov 07 15:27:13 +0000 2024",
+            "quote_count": 12751,
+            "replays": 60633,
+            "retweets_qty": 184905,
+            "tweet_content_text": "They say red light helps you sleep better https://t.co/XvVFnmcF9O",
+            "tweet_id": "1854546155381617119",
+            "tweet_likes_qty": 1720884
+        },
+        {
+            "media_urls": [
+                "https://pbs.twimg.com/media/F2KqI_ZXUAAGRCD.jpg"
+            ],
+            "publication_date": "Sat Jul 29 01:13:56 +0000 2023",
+            "quote_count": 62734,
+            "replays": 118754,
+            "retweets_qty": 88985,
+            "tweet_content_text": "https://t.co/XEydRiST9D",
+            "tweet_id": "1685096284275802112",
+            "tweet_likes_qty": 1548342
+        },
+        {
+            "media_urls": null,
+            "publication_date": "Tue Apr 26 18:26:46 +0000 2022",
+            "quote_count": 17291,
+            "replays": 69559,
+            "retweets_qty": 173434,
+            "tweet_content_text": "The extreme antibody reaction from those who fear free speech says it all",
+            "tweet_id": "1519020176884305920",
+            "tweet_likes_qty": 1518918
+        },
+        {
+            "media_urls": [
+                "https://pbs.twimg.com/media/F68DAMAWIAAtA9Q.jpg"
+            ],
+            "publication_date": "Tue Sep 26 08:26:49 +0000 2023",
+            "quote_count": 22084,
+            "replays": 39417,
+            "retweets_qty": 112476,
+            "tweet_content_text": "https://t.co/N9i79HllZv",
+            "tweet_id": "1706586107335311542",
+            "tweet_likes_qty": 1492103
+        },
+        {
+            "media_urls": [
+                "https://pbs.twimg.com/media/Fy3d3Q4XsAAPSAN.jpg"
+            ],
+            "publication_date": "Sun Jun 18 01:00:25 +0000 2023",
+            "quote_count": 9597,
+            "replays": 53520,
+            "retweets_qty": 114225,
+            "tweet_content_text": "Oh hi lol https://t.co/pLxkLDu0Qs",
+            "tweet_id": "1670234980776132608",
+            "tweet_likes_qty": 1449209
+        },
+        {
+            "media_urls": null,
+            "publication_date": "Tue Mar 05 16:12:28 +0000 2024",
+            "quote_count": 34762,
+            "replays": 57059,
+            "retweets_qty": 126096,
+            "tweet_content_text": "If you\u2019re reading this post, it\u2019s because our servers are working",
+            "tweet_id": "1765047740327702665",
+            "tweet_likes_qty": 1471830
+        },
+        {
+            "media_urls": [
+                "https://pbs.twimg.com/media/FRcu9TeXEAMjvTM.jpg"
+            ],
+            "publication_date": "Thu Apr 28 17:47:22 +0000 2022",
+            "quote_count": 42197,
+            "replays": 80333,
+            "retweets_qty": 190394,
+            "tweet_content_text": "https://t.co/Q9OjlJhi7f",
+            "tweet_id": "1519735033950470144",
+            "tweet_likes_qty": 1439367
+        },
+        {
+            "media_urls": null,
+            "publication_date": "Wed Apr 27 20:38:20 +0000 2022",
+            "quote_count": 28609,
+            "replays": 69860,
+            "retweets_qty": 130016,
+            "tweet_content_text": "For Twitter to deserve public trust, it must be politically neutral, which effectively means upsetting the far right and the far left equally",
+            "tweet_id": "1519415674111672325",
+            "tweet_likes_qty": 1423388
+        },
+        {
+            "media_urls": [
+                "https://pbs.twimg.com/media/FIdNmXtVkAEF0Ss.jpg"
+            ],
+            "publication_date": "Thu Jan 06 23:39:59 +0000 2022",
+            "quote_count": 1210,
+            "replays": 11242,
+            "retweets_qty": 9234,
+            "tweet_content_text": "Starlinks with \u201clasers\u201d deployed to orbit https://t.co/Y1eg9gl7sJ",
+            "tweet_id": "1479236333516165121",
+            "tweet_likes_qty": 850365
+        },
+        {
+            "media_urls": null,
+            "publication_date": "Fri Mar 06 20:42:39 +0000 2020",
+            "quote_count": 36879,
+            "replays": 35970,
+            "retweets_qty": 253823,
+            "tweet_content_text": "The coronavirus panic is dumb",
+            "tweet_id": "1236029449042198528",
+            "tweet_likes_qty": 1383512
+        },
+        {
+            "media_urls": [
+                "https://pbs.twimg.com/media/Gbrm7fkaEAAM7rg.jpg"
+            ],
+            "publication_date": "Wed Nov 06 06:28:11 +0000 2024",
+            "quote_count": 7922,
+            "replays": 43287,
+            "retweets_qty": 137689,
+            "tweet_content_text": "The future is gonna be fantastic https://t.co/I46tFsHxs3",
+            "tweet_id": "1854048115206078507",
+            "tweet_likes_qty": 1440099
+        },
+        {
+            "media_urls": [
+                "https://pbs.twimg.com/media/GH62TXvXAAMzE6w.jpg"
+            ],
+            "publication_date": "Tue Mar 05 16:15:42 +0000 2024",
+            "quote_count": 19163,
+            "replays": 34363,
+            "retweets_qty": 147393,
+            "tweet_content_text": "https://t.co/VTOACNfb3E",
+            "tweet_id": "1765048551023734801",
+            "tweet_likes_qty": 1398343
+        },
+        {
+            "media_urls": [
+                "https://pbs.twimg.com/media/Fo53ramacAAigCq.jpg"
+            ],
+            "publication_date": "Tue Feb 14 05:35:29 +0000 2023",
+            "quote_count": 19236,
+            "replays": 42768,
+            "retweets_qty": 73793,
+            "tweet_content_text": "https://t.co/iZUukCVrl5",
+            "tweet_id": "1625368108461613057",
+            "tweet_likes_qty": 1341759
+        },
+        {
+            "media_urls": [
+                "https://pbs.twimg.com/media/GQnDmLTbYAE51RG.jpg"
+            ],
+            "publication_date": "Fri Jun 21 16:22:40 +0000 2024",
+            "quote_count": 6265,
+            "replays": 21645,
+            "retweets_qty": 114811,
+            "tweet_content_text": "https://t.co/Z5nzuQlVFA",
+            "tweet_id": "1804188196546449660",
+            "tweet_likes_qty": 1312763
+        },
+        {
+            "media_urls": [
+                "https://pbs.twimg.com/media/GcmZTfgXUAAwDkc.jpg"
+            ],
+            "publication_date": "Sun Nov 17 16:26:14 +0000 2024",
+            "quote_count": 6841,
+            "replays": 69810,
+            "retweets_qty": 74611,
+            "tweet_content_text": "Guess who? https://t.co/ExzlBOGSBz",
+            "tweet_id": "1858184885493485672",
+            "tweet_likes_qty": 1394684
+        },
+        {
+            "media_urls": null,
+            "publication_date": "Thu Apr 28 00:13:47 +0000 2022",
+            "quote_count": 16085,
+            "replays": 37705,
+            "retweets_qty": 95822,
+            "tweet_content_text": "Twitter DMs should have end to end encryption like Signal, so no one can spy on or hack your messages",
+            "tweet_id": "1519469891455234048",
+            "tweet_likes_qty": 1336108
+        },
+        {
+            "media_urls": [
+                "https://pbs.twimg.com/media/GUK5Zc6XcAENsUZ.jpg"
+            ],
+            "publication_date": "Sun Aug 04 22:11:31 +0000 2024",
+            "quote_count": 11751,
+            "replays": 43687,
+            "retweets_qty": 191602,
+            "tweet_content_text": "\ud83d\ude2c https://t.co/RQk2QOAFPn",
+            "tweet_id": "1820221050904359331",
+            "tweet_likes_qty": 1361802
+        },
+        {
+            "media_urls": null,
+            "publication_date": "Wed Nov 06 21:47:07 +0000 2024",
+            "quote_count": 4900,
+            "replays": 59722,
+            "retweets_qty": 111038,
+            "tweet_content_text": "Huge thank you to everyone who supported this platform and our mutual quest to support freedom of speech!",
+            "tweet_id": "1854279370862444828",
+            "tweet_likes_qty": 1379364
+        },
+        {
+            "media_urls": null,
+            "publication_date": "Sun Nov 20 04:50:20 +0000 2022",
+            "quote_count": 20584,
+            "replays": 79318,
+            "retweets_qty": 99090,
+            "tweet_content_text": "Twitter is ALIVE",
+            "tweet_id": "1594191387519373313",
+            "tweet_likes_qty": 1307949
+        },
+        {
+            "media_urls": [
+                "https://pbs.twimg.com/media/GiexzhPXEAATm9-.jpg"
+            ],
+            "publication_date": "Wed Jan 29 18:30:30 +0000 2025",
+            "quote_count": 9227,
+            "replays": 33998,
+            "retweets_qty": 155332,
+            "tweet_content_text": "https://t.co/GihPM8F9fW",
+            "tweet_id": "1884670471201055192",
+            "tweet_likes_qty": 1386046
+        },
+        {
+            "media_urls": [
+                "https://pbs.twimg.com/media/FQ_68lnWQAIuYMM.jpg"
+            ],
+            "publication_date": "Sat Apr 23 03:30:45 +0000 2022",
+            "quote_count": 29631,
+            "replays": 63128,
+            "retweets_qty": 120566,
+            "tweet_content_text": "in case u need to lose a boner fast https://t.co/fcHiaXKCJi",
+            "tweet_id": "1517707521343082496",
+            "tweet_likes_qty": 1290226
+        },
+        {
+            "media_urls": [
+                "https://pbs.twimg.com/media/FyNnICoaUAEE9Xv.jpg"
+            ],
+            "publication_date": "Fri Jun 09 21:56:50 +0000 2023",
+            "quote_count": 13306,
+            "replays": 34083,
+            "retweets_qty": 162863,
+            "tweet_content_text": "https://t.co/g9gS4MUIVL",
+            "tweet_id": "1667289678612156416",
+            "tweet_likes_qty": 1293453
+        },
+        {
+            "media_urls": [
+                "https://pbs.twimg.com/amplify_video_thumb/1880026934861602816/img/HBd24VxbElMNnI_Y.jpg"
+            ],
+            "publication_date": "Thu Jan 16 23:53:03 +0000 2025",
+            "quote_count": 9989,
+            "replays": 36049,
+            "retweets_qty": 137219,
+            "tweet_content_text": "Success is uncertain, but entertainment is guaranteed! \u2728  https://t.co/nn3PiP8XwG",
+            "tweet_id": "1880040599761596689",
+            "tweet_likes_qty": 1349767
+        },
+        {
+            "media_urls": [
+                "https://pbs.twimg.com/media/FUGBmevWYAM-V_M.jpg"
+            ],
+            "publication_date": "Tue May 31 14:44:38 +0000 2022",
+            "quote_count": 20879,
+            "replays": 41029,
+            "retweets_qty": 119045,
+            "tweet_content_text": "https://t.co/G83vCrHHJf",
+            "tweet_id": "1531647849599057921",
+            "tweet_likes_qty": 1274403
+        },
+        {
+            "media_urls": [
+                "https://pbs.twimg.com/ext_tw_video_thumb/1585341912877146112/pu/img/DwJ7wlGIe9iryk6N.jpg"
+            ],
+            "publication_date": "Wed Oct 26 18:45:58 +0000 2022",
+            "quote_count": 41893,
+            "replays": 61228,
+            "retweets_qty": 163929,
+            "tweet_content_text": "Entering Twitter HQ \u2013 let that sink in! https://t.co/D68z4K2wq7",
+            "tweet_id": "1585341984679469056",
+            "tweet_likes_qty": 1278097
+        },
+        {
+            "media_urls": [
+                "https://pbs.twimg.com/media/GUzbqqRaAAAjFPN.jpg"
+            ],
+            "publication_date": "Mon Aug 12 19:06:02 +0000 2024",
+            "quote_count": 7510,
+            "replays": 30734,
+            "retweets_qty": 113345,
+            "tweet_content_text": "https://t.co/BMj1ePI3Kx",
+            "tweet_id": "1823073478481965199",
+            "tweet_likes_qty": 1278558
+        },
+        {
+            "media_urls": [
+                "https://pbs.twimg.com/media/GZKx5JwXkAAGpf5.jpg"
+            ],
+            "publication_date": "Sun Oct 06 00:57:16 +0000 2024",
+            "quote_count": 7387,
+            "replays": 38318,
+            "retweets_qty": 113172,
+            "tweet_content_text": "https://t.co/3rp9bd61kX",
+            "tweet_id": "1842730813885948001",
+            "tweet_likes_qty": 1304863
+        },
+        {
+            "media_urls": [
+                "https://pbs.twimg.com/media/GeLTgaNXEAAOXDC.jpg"
+            ],
+            "publication_date": "Sat Dec 07 06:42:33 +0000 2024",
+            "quote_count": 7384,
+            "replays": 21555,
+            "retweets_qty": 93024,
+            "tweet_content_text": "https://t.co/eYTt40ahVq",
+            "tweet_id": "1865285753569177656",
+            "tweet_likes_qty": 1303567
+        },
+        {
+            "media_urls": [
+                "https://pbs.twimg.com/media/GSifwV9bQAAeEaG.jpg"
+            ],
+            "publication_date": "Mon Jul 15 15:38:58 +0000 2024",
+            "quote_count": 4575,
+            "replays": 24854,
+            "retweets_qty": 55746,
+            "tweet_content_text": "https://t.co/SbOyKFF1RP",
+            "tweet_id": "1812874506438140090",
+            "tweet_likes_qty": 1233688
+        },
+        {
+            "media_urls": null,
+            "publication_date": "Sat Nov 05 04:30:55 +0000 2022",
+            "quote_count": 27251,
+            "replays": 95328,
+            "retweets_qty": 83156,
+            "tweet_content_text": "Trash me all day, but it\u2019ll cost $8",
+            "tweet_id": "1588750686006947840",
+            "tweet_likes_qty": 1233580
+        }
+    ]
+}

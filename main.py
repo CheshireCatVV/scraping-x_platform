@@ -16,34 +16,35 @@ def get_page_response_json(page, response_part: str, wait_for_data_el: str) -> j
 
 
 def main():
+
     with sync_playwright() as pw:
         page = pw.chromium.launch()
         page = page.new_page()
         page.goto(profile_url)
+        profile_json_data = get_page_response_json(page=page, response_part=profile_response_part,
+                                                   wait_for_data_el=wait_for_profile_data_el)
+        tweets_json_data = get_page_response_json(page=page, response_part=tweets_response_part,
+                                                  wait_for_data_el=wait_for_tweet_data_el)
+    scraped_data = dict()
 
-        response_json_data = get_page_response_json(page=page, response_part=profile_response_part,
-                                                    wait_for_data_el=wait_for_profile_data_el)
-        json_data = profile_data_parser.get_data_by_keys_order(json_data=response_json_data,
-                                                               keys_order=profile_data_keys_order)
-        scraped_data["profile_data"] = profile_data_parser.parse_json_data(json_data=json_data, profile_url=profile_url)
+    json_data = profile_data_parser.get_data_by_keys_order(json_data=profile_json_data,
+                                                           keys_order=profile_data_keys_order)
+    scraped_data["profile_data"] = profile_data_parser.parse_json_data(json_data=json_data, profile_url=profile_url)
 
-        tweets_list = list()
+    json_data = tweet_data_parser.get_data_by_keys_order(json_data=tweets_json_data, keys_order=pined_tweet_key_order)
+    json_data = tweet_data_parser.get_data_by_keys_order(json_data=json_data, keys_order=tweet_data_key_order)
 
-        response_json_data = get_page_response_json(page=page, response_part=tweets_response_part,
-                                                    wait_for_data_el=wait_for_tweet_data_el)
-        json_data = tweet_data_parser.get_data_by_keys_order(json_data=response_json_data,
-                                                             keys_order=pined_tweet_key_order)
-        json_data = tweet_data_parser.get_data_by_keys_order(json_data=json_data, keys_order=tweet_data_key_order)
-        pinned_tweet = tweet_data_parser.parse_json_data(json_data=json_data)
-        tweets_list.append(pinned_tweet)
+    tweets_list = [tweet_data_parser.parse_json_data(json_data=json_data)]
 
-        for json_data in tweet_data_parser.get_data_by_keys_order(json_data=response_json_data,
-                                                                  keys_order=tweets_key_order):
-            json_data = tweet_data_parser.get_data_by_keys_order(json_data=json_data,
-                                                                 keys_order=tweet_data_key_order)
-            tweets_list.append(tweet_data_parser.parse_json_data(json_data=json_data))
+    for json_data in tweet_data_parser.get_data_by_keys_order(json_data=tweets_json_data, keys_order=tweets_key_order):
+        json_data = tweet_data_parser.get_data_by_keys_order(json_data=json_data,
+                                                             keys_order=tweet_data_key_order)
+        tweets_list.append(tweet_data_parser.parse_json_data(json_data=json_data))
 
-        scraped_data["tweets"] = tweets_list[:tweets_slice_num]
+    scraped_data["tweets"] = tweets_list[:tweets_slice_num]
+
+    with open("scraped_data.json", "w") as f:
+        f.write(json.dumps(scraped_data, indent=4, sort_keys=True))
 
 
 if __name__ == '__main__':
@@ -62,8 +63,4 @@ if __name__ == '__main__':
 
     profile_data_parser = ProfileDataParser()
     tweet_data_parser = TweetDataParser()
-    scraped_data = dict()
     main()
-
-    with open("scraped_data.json", "w") as f:
-        f.write(json.dumps(scraped_data, indent=4, sort_keys=True))
